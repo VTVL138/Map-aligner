@@ -1,7 +1,7 @@
 # Map-aligner
 
-This assignment was the final exam of the C++ course at faculty of informatik in 2020 spring semester at the Eötvös Loránd University. The main file contains the 
-description of the task and a test code for checking the functions in the header file.
+This assignment was the final exam of the C++ course at Informatics Faculty in 2020 spring semester at the Eötvös Loránd University. The main file contains the 
+description of the task and a test code for checking the functions in the header file, which contains the solved code.
 
 ### The description of the task:
 
